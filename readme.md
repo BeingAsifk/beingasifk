@@ -2,7 +2,7 @@
 <h1 align="center">Hi !<img width="50" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" >
  , I'm Asif</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="coding" width="350" src="[http://surl.li/nvfgn](https://anantarajkhanal.com.np/wp-content/uploads/2023/02/github-min.gif)" >
+<img align="right" alt="coding" width="350" src="(https://anantarajkhanal.com.np/wp-content/uploads/2023/02/github-min.gif)" >
 
 
 
