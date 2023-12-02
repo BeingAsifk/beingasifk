@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **self improvement.**
 
-  - 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **MERN Stack.**
 
-     - 🤝 I’m looking for help with **a genuine mentorship.**
+- 🤝 I’m looking for help with **a genuine mentorship.**
 
-         - 💬 Ask me about **Javascript.**
+- 💬 Ask me about **Javascript.**
 
-            - 📫 How to reach me **beingasifk07@gmail.com**
+- 📫 How to reach me **beingasifk07@gmail.com**
 
-                - ⚡ Fun fact **I know a little bit spanish.**
+- ⚡ Fun fact **I know a little bit spanish.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,6 +24,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingasifk&show_icons=true&locale=en&layout=" alt="beingasifk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingasifk&show_icons=true&locale=en&layout=compact" alt="beingasifk" /></p>
 
 
