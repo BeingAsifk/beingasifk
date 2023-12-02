@@ -3,17 +3,17 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beingasifk&label=Profile%20views&color=0e75b6&style=flat" alt="beingasifk" /> </p>
 
-                              - 🔭 I’m currently working on **self improvement.**
+- 🔭 I’m currently working on **self improvement.**
 
-                              - 🌱 I’m currently learning **MERN Stack.**
+  - 🌱 I’m currently learning **MERN Stack.**
 
-                              - 🤝 I’m looking for help with **a genuine mentorship.**
+     - 🤝 I’m looking for help with **a genuine mentorship.**
 
-                              - 💬 Ask me about **Javascript.**
+         - 💬 Ask me about **Javascript.**
 
-                              - 📫 How to reach me **beingasifk07@gmail.com**
+            - 📫 How to reach me **beingasifk07@gmail.com**
 
-                              - ⚡ Fun fact **I know a little bit spanish.**
+                - ⚡ Fun fact **I know a little bit spanish.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,6 +24,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingasifk&show_icons=true&locale=en&layout=stretch" alt="beingasifk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingasifk&show_icons=true&locale=en&layout=" alt="beingasifk" /></p>
 
 
