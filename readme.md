@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="coding" width="400" src="http://surl.li/nvfgn" >
+<img align="right" alt="coding" width="350" src="http://surl.li/nvfgn" >
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beingasifk&label=Profile%20views&color=0e75b6&style=flat" alt="beingasifk" /> </p>
 
