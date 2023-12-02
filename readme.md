@@ -1,5 +1,5 @@
 [![MasterHead](http://surl.li/nvfpe)]
-<h1 align="center">Hi <img width="350" src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />" > , I'm Asif</h1>
+<h1 align="center">Hi <img src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />" > , I'm Asif</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="350" src="http://surl.li/nvfgn" >
 
