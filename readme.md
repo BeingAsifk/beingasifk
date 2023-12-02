@@ -1,4 +1,4 @@
-[![MasterHead](http://surl.li/nvfpe)](https://rishavchanda.io)
+[![MasterHead](http://surl.li/nvfpe)]
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="350" src="http://surl.li/nvfgn" >
