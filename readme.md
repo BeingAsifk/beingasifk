@@ -1,5 +1,5 @@
 [![MasterHead](http://surl.li/nvfpe)]
-<h1 align="center">Hi ![image](https://github.com/BeingAsifk/beingasifk/assets/98340658/ddee981e-ce9d-4b80-9e24-01b5a94b0ee1)
+<h1 align="center">Hi !https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png
  , I'm Asif</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="350" src="http://surl.li/nvfgn" >
