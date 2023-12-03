@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/BeingAsifk/beingasifk/blob/main/logo.gif)
 <h1 align="center">Hi ! <img width="40" height="38" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" >
- , I'm Asif</h1>
+, I'm Asif</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
 
