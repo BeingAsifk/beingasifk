@@ -29,4 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingasifk&show_icons=true&locale=en&layout=compact" alt="beingasifk" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingasifk&label=Profile%20views&color=0e75b6&style=flat" alt="beingasifk" /> </p>
+
 
